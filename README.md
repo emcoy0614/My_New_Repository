@@ -1,10 +1,10 @@
 # My_New_Repository
 Project_Sprint-7
 
-Análisis Exploratorio de Datos de Vehículos
+# Análisis Exploratorio de Datos de Vehículos
 Esta es una aplicación web desarrollada con Python y Streamlit que permite visualizar de manera interactiva un conjunto de datos sobre vehículos en venta en EE.UU. El objetivo fue practicar análisis exploratorio de datos (EDA) y presentar gráficas útiles para entender mejor la información.
 
-- ¿Qué hace esta app?
+# ¿Qué hace esta app?
 Con solo un par de clics, la app te permite:
 
 1. Ver los primeros registros del dataset.
@@ -16,26 +16,26 @@ Con solo un par de clics, la app te permite:
 4. Explorar cómo varían los precios según la condición del vehículo mediante un gráfico de cajas.
 
 
-- Tecnologías utilizadas
-# Python
+# Tecnologías utilizadas
+- Python
 
-# Pandas
+- Pandas
 
-# Plotly Express para los gráficos
+- Plotly Express para los gráficos
 
-# Streamlit para la interfaz web
+- Streamlit para la interfaz web
 
-# Git para el control de versiones
+- Git para el control de versiones
 
-# GitHub como repositorio 
+- GitHub como repositorio 
 
-# Visual Studio Code como entorno de desarrollo
+- Visual Studio Code como entorno de desarrollo
 
-# Render para el despliegue de la aplicación
+- Render para el despliegue de la aplicación
 
-- Dataset
+# Dataset
 El dataset utilizado es vehicles_us.csv, el cual contiene registros de vehículos, con columnas como el precio, año del modelo, tipo de combustible, kilometraje, transmisión, color y más.
 
-El link para visualizar el despliegue de la aplicación en Render es el siguiente:
+- El link para visualizar el despliegue de la aplicación en Render es el siguiente:
 
-- https://my-new-repository-f59b.onrender.com
+ https://my-new-repository-f59b.onrender.com
